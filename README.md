@@ -1,2 +1,2 @@
 # libcx
-complex number library
+Complex numbers library
