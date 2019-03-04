@@ -1,2 +1,0 @@
-# libcx
-Complex numbers library
