@@ -21,7 +21,7 @@ Function | Parameters | Description
 
 # Building
 To build the library run:
-  `make -f libcx.mk all`
+  `make all`
 
 # License
 [BSD 2-Clause License](LICENSE)
