@@ -27,4 +27,4 @@ To build the library run:
 [BSD 2-Clause License](LICENSE)
 
 # TODO
-* Add functions for polar complex numbers
+* Add functions for complex numbers in polar form
