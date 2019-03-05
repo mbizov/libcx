@@ -1,5 +1,5 @@
 # Introduction
-Libcx is an ANSI C library for operating on complex numbers
+Libcx is an ANSI C library for operating on complex numbers.
 
 # How to use
 All functions are defined in the `cx_math.h` header. You either need to add the library's files to your project or link to the library. That's it!
