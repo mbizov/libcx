@@ -8,7 +8,7 @@ CFLAGS=-pipe -O2
 all: libcx.o libcx.a
 
 libcx.o:
-	$(CC) $(CFLAGS) -c -o libcx.o cx_math.c
+	$(CC) $(CFLAGS) -c -o libcx.o cxmath.c
 
 libcx.a:
 	$(AR) $(ARFLAGS) libcx.a libcx.o
