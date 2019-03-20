@@ -26,8 +26,8 @@ The views and conclusions contained in the software and documentation are those
 of the authors and should not be interpreted as representing official policies,
 either expressed or implied, of the <project name> project.
 */
-#ifndef _CX_MATH_H_
-#define _CX_MATH_H_
+#ifndef _CXMATH_H_
+#define _CXMATH_H_
 #endif
 
 #define _CRT_SECURE_NO_WARNINGS
