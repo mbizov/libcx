@@ -2,7 +2,7 @@
 Libcx is an ANSI C library for operating on complex numbers.
 
 # How to use
-All functions are defined in the `cx_math.h` and `cx_math.c` files. You either need to add the library's files to your project or compile the library using the makefile and link to it later.
+All functions are defined in the `cxmath.h` and `cxmath.c` files. You either need to add the library's files to your project or compile the library using the makefile and link to it later.
 
 # Functionality
 The `cx_float` structure is used in the whole library, it defines a complex number by its real and imaginary part.
